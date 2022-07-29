@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding: 0;
+   
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color:aqua;
+    height: 10vh;
+    width: 100vw;
+    font-size:x-large;
+    font-weight: bold;
+  
+    
+}
+
+.cont{
+    background-image: url('back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height:90vh;
+}
+.container{
+    padding-top: 40px;
+}
